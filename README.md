@@ -8,10 +8,9 @@
 
 I'm a passionate developer focused on creating impactful web solutions. I enjoy tackling complex problems and turning ideas into elegant, functional applications.
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **innovative web projects**
-- 💬 Ask me about **web development, [Your Specialties]**
+- 🔭 I'm currently working on React projects.
+- 🌱 I'm learning React, Shopify and Angular.
+- 👯 I'm looking to collaborate on innovative web projects
 
 ## 🛠️ Technologies & Tools
 
