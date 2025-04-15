@@ -33,10 +33,10 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ## 🚀 Featured Projects
 
 <a href="https://github.com/TH274/Ogani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=repository1&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=Ogani&theme=react" />
 </a>
 <a href="https://github.com/TH274/finance-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=repository2&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=finance-tracker&theme=react" />
 </a>
 
 <!-- Add your featured projects here. Replace 'repository1' and 'repository2' with your actual repositories -->
