@@ -32,6 +32,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 
 ## 🚀 Featured Projects
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://github.com/TH274/Ogani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=Ogani&theme=react" />
 </a>
@@ -51,6 +52,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 <a href="https://github.com/TH274/28_3_2025">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=28_3_2025&theme=react" />
 </a>
+</div>
 
 <!-- Add your featured projects here. Replace 'repository1' and 'repository2' with your actual repositories -->
 
