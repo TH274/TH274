@@ -44,8 +44,8 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=shopify-theme-practice&theme=react" />
 </a>
 
-<a href="https://github.com/TH274/Hotel-management-Odoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=Hotel-management-Odoo&theme=react" />
+<a href="https://github.com/TH274/Hotel_management_Odoo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=Hotel_management_Odoo&theme=react" />
 </a>
 
 <a href="https://github.com/TH274/28_3_2025">
