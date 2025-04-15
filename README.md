@@ -1,8 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Kitzzu
 
 [![GitHub followers](https://img.shields.io/github/followers/TH274?style=social)](https://github.com/TH274)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=your-linkedin-url)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](your-website-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-44123733b/)]((https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-44123733b/))
 
 ## 👨‍💻 About Me
 
