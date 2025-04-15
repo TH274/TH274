@@ -38,6 +38,15 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 <a href="https://github.com/TH274/finance-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=finance-tracker&theme=react" />
 </a>
+<a href="https://github.com/TH274/shopify-theme-practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=shopify-theme-practice&theme="shopify" />
+</a>
+<a href="https://github.com/TH274/finance-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=finance-tracker&theme=react" />
+</a>
+<a href="https://github.com/TH274/finance-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=finance-tracker&theme=react" />
+</a>
 
 <!-- Add your featured projects here. Replace 'repository1' and 'repository2' with your actual repositories -->
 
