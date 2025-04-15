@@ -44,9 +44,9 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 
 ## 📫 How to Reach Me
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](your-linkedin-url)
-- Twitter: [@YourTwitter](your-twitter-url)
+- Email: hoangzing274@gmail.com
+- LinkedIn: hoangzing274@gmail.com
+- facebook: Trần Việt Hoàng
 
 ---
 
