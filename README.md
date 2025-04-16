@@ -61,9 +61,25 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 
 ## 📫 How to Reach Me
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fLp2fTpKTZsj2xW1zI/giphy.gif" width="50px"> **Email**: hoangzing274@gmail.com
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" width="50px"> **LinkedIn**: hoangzing274@gmail.com
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2sjwBnNlY4CPyr8goo/giphy.gif" width="50px"> **facebook**: Trần Việt Hoàng
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fLp2fTpKTZsj2xW1zI/giphy.gif" width="30px"></td>
+      <td><strong>Email:</strong></td>
+      <td>hoangzing274@gmail.com</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" width="30px"></td>
+      <td><strong>LinkedIn:</strong></td>
+      <td><a href="https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-44123733b/">Hoàng Trần Việt</a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2sjwBnNlY4CPyr8goo/giphy.gif" width="30px"></td>
+      <td><strong>Facebook:</strong></td>
+      <td>Trần Việt Hoàng</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
