@@ -26,9 +26,6 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Pixel Art](https://img.shields.io/badge/-Pixel%20Art-FF5A5F?style=flat-square&logo=aseprite&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -100,5 +97,14 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 </p>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="100px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
 </div>
