@@ -22,7 +22,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 </p>
 
 
-## 🛠️ Technologies & Tools
+## <img src="https://media.giphy.com/media/NEZ0qIEY11FFiQHTEN/giphy.gif?cid=ecf05e47hsnvldzbfkyyqj3wr5qijy6f09edg63p3rna95ck&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" /> Technologies & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
