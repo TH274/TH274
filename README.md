@@ -11,7 +11,9 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 
 ## 🛠️ Technologies & Tools
 
-<div class="tenor-gif-embed" data-postid="16993848" data-share-method="host" data-aspect-ratio="0.990625" data-width="100%"><a href="https://tenor.com/view/raining-pixel-gamer-pc-gif-16993848">Raining Pixel GIF</a>from <a href="https://tenor.com/search/raining-gifs">Raining GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://media.giphy.com/media/6qfLuLryMaj0ZF2GUS/giphy.gif?cid=ecf05e47smuv92hq2jnechpq96q91ehpya3djfuaoy85vywf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
