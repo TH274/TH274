@@ -5,9 +5,9 @@
 
 I'm a passionate developer focused on creating impactful web solutions. I enjoy tackling complex problems and turning ideas into elegant, functional applications.
 
-- 🔭 I'm currently working on React projects.
-- 🌱 I'm learning React, Shopify and Angular.
-- 👯 I'm looking to collaborate on innovative web projects
+<img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" /> I'm currently working on React projects.
+<img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" /> I'm learning React, Shopify and Angular.
+<img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" /> I'm looking to collaborate on innovative web projects
 
 ## 🛠️ Technologies & Tools
 
@@ -54,7 +54,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=28_3_2025&theme=react" />
 </a>
 
-## 📫 How to Reach Me
+## <img src="https://media.giphy.com/media/ZETElxvoroQD4SU8F4/giphy.gif?cid=ecf05e47xkjezcn3nkpuc37dw493r4sjwx7pio5yw6mp6y9r&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" />  How to Reach Me
 
 <div align="center">
   <table>
