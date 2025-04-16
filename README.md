@@ -15,6 +15,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
   <img src="https://media.giphy.com/media/6qfLuLryMaj0ZF2GUS/giphy.gif?cid=ecf05e47smuv92hq2jnechpq96q91ehpya3djfuaoy85vywf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 
+<div align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -26,6 +27,8 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+</div>
+
 
 ## 📊 GitHub Stats
 
