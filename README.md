@@ -12,7 +12,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://media.giphy.com/media/6qfLuLryMaj0ZF2GUS/giphy.gif?cid=ecf05e47smuv92hq2jnechpq96q91ehpya3djfuaoy85vywf&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2plNGMydWg4MnE2aWVvdXIxaWJzY2hpYnB6cjBlcjd2ZGdlMDE3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6i48JlbyM9UokosELP/giphy.gif"/>
 </div>
 
 <div align="center">
@@ -28,8 +28,6 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </div>
-
-
 
 ## 📊 GitHub Stats
 
