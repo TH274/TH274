@@ -62,7 +62,6 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ## 📫 How to Reach Me
 
 <div align="center">
-  <table>
     <tr>
       <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fLp2fTpKTZsj2xW1zI/giphy.gif" width="30px"></td>
       <td><strong>Email:</strong></td>
@@ -78,7 +77,6 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
       <td><strong>Facebook:</strong></td>
       <td>Trần Việt Hoàng</td>
     </tr>
-  </table>
 </div>
 
 ---
