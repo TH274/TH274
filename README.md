@@ -6,7 +6,7 @@
 I'm a passionate developer focused on creating impactful web solutions. I enjoy tackling complex problems and turning ideas into elegant, functional applications.
 
 <tr>
-<td><img src="https://media.giphy.com/media/Bp0jNoTGuurFXm6QWE/giphy.gif?cid=ecf05e472qsbvtve6pwaf7u1grs6gb4sxyad1nx8zzcnkjg5&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" /> I'm currently working on React projects.</td>
+<td><img src="https://media.giphy.com/media/Bp0jNoTGuurFXm6QWE/giphy.gif?cid=ecf05e472qsbvtve6pwaf7u1grs6gb4sxyad1nx8zzcnkjg5&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px" style="vertical-align:middle;" /> I'm currently working on React projects.</td>
 </tr>
 <img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" /> I'm learning React, Shopify and Angular.
 <img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" /> I'm looking to collaborate on innovative web projects
