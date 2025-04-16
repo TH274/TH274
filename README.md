@@ -25,7 +25,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </div>
 
-## <img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> GitHub Stats
+## 🧠 GitHub Stats <img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" />
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TH274&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
