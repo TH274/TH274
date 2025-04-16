@@ -1,4 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Kitzzu <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="40px" align="right">
+
 [![GitHub followers](https://img.shields.io/github/followers/TH274?style=social)](https://github.com/TH274)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-44123733b/)](https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-44123733b/)
 
@@ -9,6 +10,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 - 👯 I'm looking to collaborate on innovative web projects
 
 ## 🛠️ Technologies & Tools
+
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="200px">
 </div>
@@ -27,7 +29,6 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Pixel Art](https://img.shields.io/badge/-Pixel%20Art-FF5A5F?style=flat-square&logo=aseprite&logoColor=white)
-
 
 ## 📊 GitHub Stats
 
@@ -58,18 +59,14 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=28_3_2025&theme=react" />
 </a>
 
-
 ## 📫 How to Reach Me
 
-<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fLp2fTpKTZsj2xW1zI/giphy.gif" width="50px">
+  - Email: hoangzing274@gmail.com
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" width="50px">
+  - LinkedIn: hoangzing274@gmail.com
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2sjwBnNlY4CPyr8goo/giphy.gif" width="50px">
-</div>
-
-- Email: hoangzing274@gmail.com
-- LinkedIn: hoangzing274@gmail.com
-- facebook: Trần Việt Hoàng
+  - facebook: Trần Việt Hoàng
 
 ---
 
