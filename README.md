@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Kitzzu <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="40px" align="right">
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello, I'm Kitzzu <img src="https://media.giphy.com/media/LE1kHKCfesFsoYdvy3/giphy.gif?cid=ecf05e478sn5kwbdv6lzaasakpugorm1uk7mfhzo7x8fpp0r&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40px" align="right">
 
 [![GitHub followers](https://img.shields.io/github/followers/TH274?style=social)](https://github.com/TH274)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-44123733b/)](https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-44123733b/)
