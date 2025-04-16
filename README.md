@@ -98,13 +98,18 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 
 <div align="center">
   <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
-  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
-  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
-  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
-  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
-  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
-  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
-  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
-  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
-  <img src="https://media.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/95PromoujUIuj3ROiP/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/87aLO68Fi4nX4llnnQ/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/82LGQT2QKKMPBbkEkg/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/cOR2fPCZgErzi6COcG/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/Eqc7RhbdSEqYut8vDc/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/l1fzJpEQHwXwjLcjJw/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/e7Pkc6DwN6IWHvvizL/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/3dbEAOOmPXnTpMqgF5/giphy.gif?cid=ecf05e47f9sqmm61xtocbhwhzo1igojyjjd8rsw2z8wpg1pr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/OjraDCulT8NSP56tcI/giphy.gif?cid=ecf05e47f9sqmm61xtocbhwhzo1igojyjjd8rsw2z8wpg1pr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/wIkGlPFEjzy8qykkUJ/giphy.gif?cid=ecf05e47f9sqmm61xtocbhwhzo1igojyjjd8rsw2z8wpg1pr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/2w4M7YOoLyLmbiRPPg/giphy.gif?cid=ecf05e478w324i8mhpoykm28efoksgntcrl0sc3b4uw6fiuv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/SGGHAPCjED1OcW6ixv/giphy.gif?cid=ecf05e475weo0s6ftuihi3hmif7rscx79d20vxlbtl9e0oma&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/w6YCfXHS6QZjeHlVpI/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1hCn9kUdtA65wDSvXI/giphy.gif" width="50px">
 </div>
