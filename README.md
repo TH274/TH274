@@ -9,6 +9,9 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 - 👯 I'm looking to collaborate on innovative web projects
 
 ## 🛠️ Technologies & Tools
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="200px">
+</div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -24,11 +27,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Pixel Art](https://img.shields.io/badge/-Pixel%20Art-FF5A5F?style=flat-square&logo=aseprite&logoColor=white)
-<!-- Add more relevant technologies -->
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="200px">
-</div>
 
 ## 📊 GitHub Stats
 
@@ -63,9 +62,9 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ## 📫 How to Reach Me
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="50px">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="50px">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fLp2fTpKTZsj2xW1zI/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/t6Kf2qs5fgWiAlOig5/giphy.gif" width="50px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk1a3h3cXpocDJtdHo5YXY4aWF4Z2p6ZHAzbHlmZnFsZGZtYnB0MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2sjwBnNlY4CPyr8goo/giphy.gif" width="50px">
 </div>
 
 - Email: hoangzing274@gmail.com
