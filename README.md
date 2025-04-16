@@ -47,6 +47,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 
 ## <img src="https://media.giphy.com/media/nHleupBZABMQWmfAMO/giphy.gif?cid=ecf05e475sgwqchf6p6d8auo2ds2qknaimgv8x7ruhilpvoy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" /> Featured Projects
 
+<div align="center">
 <a href="https://github.com/TH274/Ogani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=Ogani&theme=react" />
 </a>
@@ -66,6 +67,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 <a href="https://github.com/TH274/28_3_2025">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=28_3_2025&theme=react" />
 </a>
+</div>
 
 ## <img src="https://media.giphy.com/media/ZETElxvoroQD4SU8F4/giphy.gif?cid=ecf05e47xkjezcn3nkpuc37dw493r4sjwx7pio5yw6mp6y9r&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle;" />  How to Reach Me
 
