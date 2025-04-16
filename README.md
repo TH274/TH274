@@ -7,7 +7,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 
 
 <p>
-  <img src="https://media.giphy.com/media/Bp0jNoTGuurFXm6QWE/giphy.gif?cid=ecf05e472qsbvtve6pwaf7u1grs6gb4sxyad1nx8zzcnkjg5&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60px" style="vertical-align:middle; margin-right: 15px;" />
+  <img src="https://media.giphy.com/media/Bp0jNoTGuurFXm6QWE/giphy.gif?cid=ecf05e472qsbvtve6pwaf7u1grs6gb4sxyad1nx8zzcnkjg5&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40px" style="vertical-align:middle; margin-right: 15px;" />
   I'm currently working on React projects.
 </p>
 
