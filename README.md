@@ -12,12 +12,12 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 </p>
 
 <p>
-  <img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle; margin-right: 10px;" />
+  <img src="https://media.giphy.com/media/Mp0dd5SvEu3hzHCjrh/giphy.gif?cid=ecf05e47tljxpswwhu5dx6psz2f28edyz5txi0yciv05sufj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px" style="vertical-align:middle; margin-right: 10px;" />
   I'm learning React, Shopify, and Angular.
 </p>
 
 <p>
-  <img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px" style="vertical-align:middle; margin-right: 10px;" />
+  <img src="https://media.giphy.com/media/cj2c6lmeuBGo508sSL/giphy.gif?cid=ecf05e479s2lq2fbz1xx282asvnz1ddahzt845of94vjykfc&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px" style="vertical-align:middle; margin-right: 10px;" />
   I'm looking to collaborate on innovative web projects.
 </p>
 
