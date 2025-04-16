@@ -11,7 +11,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 
 ## 🛠️ Technologies & Tools
 
-  <div class="tenor-gif-embed" data-postid="15696554" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/sleeping-cute-zzz-anime-gif-15696554">Sleeping Cute Sticker</a>from <a href="https://tenor.com/search/sleeping-stickers">Sleeping Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="15696554" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/sleeping-cute-zzz-anime-gif-15696554">Sleeping Cute Sticker</a>from <a href="https://tenor.com/search/sleeping-stickers">Sleeping Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
