@@ -45,7 +45,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TH274&layout=compact&langs_count=8&theme=react"/>
 </p>
 
-## 🚀 Featured Projects
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lmZ3gxM2o5bTI5ZWE4aWltNHpxaWhvMWs0dGcxZDNnZWZveXB5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5iFgJsPdh3KKdEdCmN/giphy.gif" width="30px" style="vertical-align:middle;" /> Featured Projects
 
 <a href="https://github.com/TH274/Ogani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TH274&repo=Ogani&theme=react" />
