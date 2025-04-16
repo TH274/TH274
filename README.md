@@ -12,10 +12,6 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2plNGMydWg4MnE2aWVvdXIxaWJzY2hpYnB6cjBlcjd2ZGdlMDE3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6i48JlbyM9UokosELP/giphy.gif"/>
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
@@ -29,7 +25,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/kcf2gSeHIYcLLwf36i/giphy.gif?cid=ecf05e47m6twvjc382kih50n1ndd5hd2wafkmy9zqgxbhkgd&ep=v1_stickers_search&rid=giphy.gif&ct=s"/> GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TH274&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
