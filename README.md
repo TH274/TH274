@@ -12,7 +12,7 @@ I'm a passionate developer focused on creating impactful web solutions. I enjoy 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2NGxhejY5N3V1MWk5MTV3MnY5OWhoeXNiODBvYnhzbHd1M254byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ4v3Vts7hcBAC1iDy/giphy.gif" width="200px">
+  <div class="tenor-gif-embed" data-postid="15696554" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/sleeping-cute-zzz-anime-gif-15696554">Sleeping Cute Sticker</a>from <a href="https://tenor.com/search/sleeping-stickers">Sleeping Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
