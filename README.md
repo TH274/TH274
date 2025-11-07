@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 # <img src="https://media.giphy.com/media/dcqfKJCeZ1iz1W0PHt/giphy.gif?cid=ecf05e47repn3vxlazv1cy6l8oy1e9c2jev0zn6fztetq8o9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px"> Hello, I'm Kitzzu
 
 [![GitHub followers](https://img.shields.io/github/followers/TH274?style=social)](https://github.com/TH274)
