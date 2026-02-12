@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/dcqfKJCeZ1iz1W0PHt/giphy.gif?cid=ecf05e47repn3vxlazv1cy6l8oy1e9c2jev0zn6fztetq8o9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px"> Hello, I'm Kitzzu
 
 [![GitHub followers](https://img.shields.io/github/followers/TH274?style=social)](https://github.com/TH274)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-44123733b/)](https://www.linkedin.com/in/ho%C3%A0ng-tr%E1%BA%A7n-vi%E1%BB%87t-44123733b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tr%E1%BA%A7n-vi%E1%BB%87t-ho%C3%A0ng-44123733b/)](https://www.linkedin.com/in/tr%E1%BA%A7n-vi%E1%BB%87t-ho%C3%A0ng-44123733b/)
 
 I'm a passionate developer focused on creating impactful web solutions. I enjoy tackling complex problems and turning ideas into elegant, functional applications.
 
